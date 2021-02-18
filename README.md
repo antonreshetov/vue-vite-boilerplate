@@ -22,7 +22,7 @@
 - Standard
 
 ### Commit convention
-- Angular's commit convention
+- Adapted Angular's commit convention
 
 ## Usage
 
