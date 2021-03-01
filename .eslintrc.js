@@ -25,7 +25,7 @@ module.exports = {
         }
       }
     ],
-    'arrow-parens': 0,
+    'arrow-parens': ['error', 'as-needed'],
     'import/order': 0
   }
 }
